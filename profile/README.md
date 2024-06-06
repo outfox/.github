@@ -3,7 +3,7 @@
 ![logo, a fox in neon colors looking right, in the direction of the word outfox with a fletched arrow through it](outfox-lightmode.svg#gh-light-mode-only) ![logo, a fox in neon colors looking right, in the direction of the word outfox with a fletched arrow through it](outfox-darkmode.svg#gh-dark-mode-only)
 
 
-## ... a repository of clever little ⤜libraries⤏
+## ... a ⤜repository⤏ of clever little libraries
 
 Everything we make is released under free & libre open source licenses. Most of the code is written in C#.
 
