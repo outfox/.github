@@ -13,5 +13,7 @@ A litter of small, unique game development libraries that do things creatively, 
 ## ... open to friendly ⤜contributions⤏
 We're a rag-tag, non-profit assemblage of passionate contributors. Demos, ideas, libraries - would you like to make something documented and coded to a high standard of quality and playfulness? 
 
-Or if you just wanna build something wild for a game jam, that's cool too. We're always down for friendly collaboration - [hit us up on Discord!](https://discord.gg/3SF4gWhANS)
+Or if you just wanna build something wild for a game jam, that's cool too. We're always down for friendly collaboration:
+
+### [Hit us up on Discord!](https://discord.gg/3SF4gWhANS)
 
