@@ -13,7 +13,7 @@ Use our small modules & packages to do things creatively, quickly, and without w
 
 ## ... open to friendly ⤜contributions⤏
 
-We're a rag-tag, non-profit assemblage of passionate contributors. Demos, ideas, libraries - would you like to help us make something documented and coded to a high standard of quality and playfulness? 
+We're a rag-tag, inclusive, welcoming assemblage of passionate contributors. Demos, ideas, libraries - would you like to help us make something documented and coded to a high standard of quality and playfulness? 
 
 Or if you just wanna build something wild for a game jam, that's cool too. We're always down for friendly collaboration:
 
