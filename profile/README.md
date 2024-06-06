@@ -5,7 +5,7 @@
 
 ## ... a repository of clever little ⤜libraries⤏
 
-Everything we make is released under libre, free open source licenses. Most of the code is written in C#.
+Everything we make is released under free & libre open source licenses. Most of the code is written in C#.
 
 ## ... reducing ⤜complexity⤏ in game dev
 A litter of small, unique game development libraries that do things creatively, quickly, and without weighing you and your codebase down.
