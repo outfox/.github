@@ -8,7 +8,7 @@
 Everything we make is released under free & libre open source licenses. Most of the code is written in C#.
 
 ## ... reducing ⤜complexity⤏ in game dev
-A litter of small, unique game development libraries that do things creatively, quickly, and without weighing you and your codebase down.
+Small, unique game development packages to do things creatively, quickly, and without weighing you and your codebase down.
 
 ## ... open to friendly ⤜contributions⤏
 We're a rag-tag, non-profit assemblage of passionate contributors. Demos, ideas, libraries - would you like to make something documented and coded to a high standard of quality and playfulness? 
