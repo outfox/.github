@@ -1,9 +1,13 @@
 
-# ⤜outfox⤏ complexity in game dev!
 ![logo, a fox in neon colors looking right, in the direction of the word outfox with a fletched arrow through it](logo-outfox.png)
-We're a rag-tag, non-profit assemblage of passionate contributors crafting a couple of small, unique game development libraries that do things creatively, quickly, and without weighing you and your codebase down.
+
+# a repository of clever little ⤜libraries⤏
 
 Everything we make is released under libre, free open source licenses. Most of the code is written in C#.
 
-## Contributors Wanted
-Demos, Ideas, Libraries - if you have something or want to make something coded to a high standard of quality and playfulness! Or just as well, if you want to do something crazy for a game jam - [hit us up on Discord!](https://discord.gg/3SF4gWhANS)
+
+## beat ⤜complexity⤏ in game dev!
+We're a rag-tag, non-profit assemblage of passionate contributors crafting a couple of small, unique game development libraries that do things creatively, quickly, and without weighing you and your codebase down.
+
+## ⤜contribute⤏ to super fun stuff!
+Demos, ideas, libraries - do you want to make something documented and coded to a high standard of quality and playfulness? Or just as well, if you want to do something crazy for a game jam - [hit us up on Discord!](https://discord.gg/3SF4gWhANS)
