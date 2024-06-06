@@ -5,7 +5,7 @@
 
 ## ... a ⤜collection⤏ of clever little libraries
 
-Everything we make is released under free & libre open source licenses, made with love and care.
+Everything we make is released under free & libre open source licenses, and crafted with love and care.
 
 ## ... reducing ⤜complexity⤏ in game development
 
