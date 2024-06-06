@@ -11,7 +11,7 @@ Everything we make is released under free & libre open source licenses, and craf
 
 Use our small modules & packages to do things creatively, quickly, and without weighing you and your codebase down.
 
-## ... open source & open to friendly ⤜contributions⤏
+## ... open source & welcoming ⤜contributions⤏
 
 We're a rag-tag, inclusive, welcoming assemblage of passionate contributors. Demos, ideas, libraries - would you like to help us make something well-documented and coded to a high standard of quality and playfulness?
 
