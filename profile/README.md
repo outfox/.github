@@ -13,7 +13,7 @@ Use our small modules & packages to do things creatively, quickly, and without w
 
 ## ... open source & welcoming ⤜contributions⤏
 
-The best software is made by a rag-tag, inclusive, friendly assemblage of passionate contributors. 
+This software is made by a rag-tag, inclusive, friendly assemblage of passionate contributors. 
 
 ### [Hit us up on Discord!](https://discord.gg/3SF4gWhANS)
 
