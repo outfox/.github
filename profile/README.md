@@ -1,6 +1,6 @@
 
 
-![logo, a fox in neon colors looking right, in the direction of the word outfox with a fletched arrow through it](outfox-lightmode.svg#gh-light-mode-only) ![logo, a fox in neon colors looking right, in the direction of the word outfox with a fletched arrow through it](outfox-darkmode.svg#gh-darkmode-mode-only)
+![logo, a fox in neon colors looking right, in the direction of the word outfox with a fletched arrow through it](outfox-lightmode.svg#gh-light-mode-only) ![logo, a fox in neon colors looking right, in the direction of the word outfox with a fletched arrow through it](outfox-darkmode.svg#gh-dark-mode-only)
 
 
 ## ... a repository of clever little ⤜libraries⤏
