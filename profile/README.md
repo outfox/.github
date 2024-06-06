@@ -6,7 +6,7 @@
 Everything we make is released under libre, free open source licenses. Most of the code is written in C#.
 
 
-## ... overcome ⤜complexity⤏ in game dev!
+## ... reducing ⤜complexity⤏ in game dev!
 We're a rag-tag, non-profit assemblage of passionate contributors crafting a couple of small, unique game development libraries that do things creatively, quickly, and without weighing you and your codebase down.
 
 ## ... come ⤜contribute⤏ to fun technology!
