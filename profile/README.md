@@ -9,7 +9,7 @@ Everything we make is released under free & libre open source licenses, and craf
 
 ## ... reducing ⤜complexity⤏ in game development
 
-Use our small modules & packages to do things creatively, quickly, and without weighing you and your codebase down.
+Use our small modules & packages do things creatively, quickly, and without weighing you and your codebase down.
 
 ## ... open source & welcoming ⤜contributions⤏
 
