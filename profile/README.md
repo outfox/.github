@@ -13,9 +13,12 @@ Use our small modules & packages to do things creatively, quickly, and without w
 
 ## ... open source & welcoming ⤜contributions⤏
 
-We're a rag-tag, inclusive, friendly assemblage of passionate contributors. Demos, ideas, libraries - would you like to help us make something well-documented and coded to a high standard of quality and playfulness?
-
-Or if you just wanna build something wild for a game jam, that's cool too. We're always down for friendly collaboration:
+The best software is made by a rag-tag, inclusive, friendly assemblage of passionate contributors. 
 
 ### [Hit us up on Discord!](https://discord.gg/3SF4gWhANS)
+
+Demos, ideas, libraries - would you like to help us make something well-documented and coded to a high standard of quality and playfulness?
+
+Or if you just wanna build something wild or beautiful for a game jam, that's cool too. We're always down for friendly collaboration!
+
 
