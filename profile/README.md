@@ -13,9 +13,7 @@ Use our small modules & packages do things creatively, quickly, and without weig
 
 ## ... open source & welcoming ⤜contributions⤏
 
-This software is made by a rag-tag, inclusive, friendly assemblage of passionate contributors. 
-
-### [Hit us up on Discord!](https://discord.gg/3SF4gWhANS)
+This software is made by a rag-tag, inclusive, friendly assemblage of passionate contributors. [Say "Hi" on Discord!](https://discord.gg/3SF4gWhANS)
 
 Demos, ideas, libraries - would you like to help us make something crafted to a high standard of quality and playfulness?
 
